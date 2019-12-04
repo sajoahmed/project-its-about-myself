@@ -1,0 +1,94 @@
+body{}
+.portfolio-box{}
+.heading{}
+h2{}
+span{}
+h1{}
+.img{}
+.detail{}
+h3{}
+p{}
+ul{}
+li{}
+body{
+    margin: 0;
+    background-color: #feffff;
+}
+.portfolio-box{
+    background-color: #fcffff;
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    box-shadow: 0 0 10px #d0d0d0;
+}
+.heading{
+    text-align: center;
+    padding: 50px;
+    box-shadow: 8 8 10 px;
+}
+h2{
+    margin: 0;
+    font-size: 40px;
+    color: #005aa9;
+}
+span{
+    color: #230af1;
+}
+h1{
+    margin: 0;
+    font-size: 60px;
+    margin-bottom: 15px;
+    color: #330717;
+}
+img{}
+.detail
+h3{
+    font-size: 40px;
+    color: #0f0229;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+p{
+    font-size: 35px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+ul{
+    font-size: 30px;
+    color: #220738;
+    text-shadow: 0 0 black;
+    margin: 0;
+    padding-left: 75px;
+    padding-right: 75px;
+    margin-bottom: 0px;
+}<!DOCTYPE html>
+<html>
+<head>
+	<link rel="icon" type="text/css" href="images/images.jpg.jpg">
+	<title>project about mykself</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+
+<div class="portfolio box">
+	<div class="heading">
+		<h2><span>H</span>i</h2>
+		<h1>I'm <span>riazul islam</span></h1>
+		<img src="images/images.jpg.jpg">
+	</div>
+	<div class="detail">
+		<h3>About me</h3>
+		<p>Hello, I am riazul islam rifat.I am a student now.let me introduce myself to you.I have completed SSC from Vagirathpur hazi lal mia high school,Hsc from Narsingdi goverment college.I want to be a web developer in future.For this reason, i have taken admission at shikbe  sobai.anyway,i love to travel and i want to visit every single beautiful country of the world.As i am a human i  have some dreams like others.I want to make a empire . Empire of mine and there will be a lot of things.</p>
+		<UL><li>Teaching</li>
+			<li>speaking english</li>
+			<li>suplex</li>
+			<li>Rko</li>
+			</UL></div>
+</div>
+
+</body>
+<html>
